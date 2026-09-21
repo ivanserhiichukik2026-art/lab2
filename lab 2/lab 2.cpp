@@ -22,4 +22,4 @@ int main()
 	cin.get();
 	return 0;
 }
-// commit fs����������
+// commit fsâłôóęď÷ńâłŕâł це я тут писав для 2.0
